@@ -1,4 +1,8 @@
+# Script to setup all neccessary tools for dev for linux
+
 ## Install_ide.sh 
+
+Donwload go, goland, android studio archive. 
 
 To Install All Tools:
 
